@@ -1,0 +1,9 @@
+body{
+  width: 900px;
+  margin: 0px auto;
+}
+#main_container{
+  min-height: 100vh;
+  padding: 20px;
+  background-color: azure;
+}
