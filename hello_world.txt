@@ -1,5 +1,2 @@
 Hello World 5-2-22.
 Example text file for The Odin Project git lesson
-A modification to this file
-Another modification to this file
-Yet another modification
